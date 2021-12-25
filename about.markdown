@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: About Anu Gulati
 permalink: /about/
 ---
 

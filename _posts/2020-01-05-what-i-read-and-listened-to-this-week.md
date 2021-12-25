@@ -24,4 +24,4 @@ Phony Ppl are performing for free in NYC next month, but unfortunately it's the 
 
 thanks for reading, I'll end this with a video I can't stop replaying.
 
-{{< youtube BLPFTjHwpKI >}}
+{% include youtube_embed.html id="BLPFTjHwpKI" %}

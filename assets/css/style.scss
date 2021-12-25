@@ -2,3 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.site-title {
+    text-decoration: none;
+    color: inherit;
+}
