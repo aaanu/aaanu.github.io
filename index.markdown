@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
+[about me](/about)
+
+[my professional experience](/experience)
+
+💭 my thoughts:
+
+- [favorite music of 2021](/2021/12/24/favorite-music-of-2021)
+
+- [favorite music of 2020](/2020/11/27/favorite-music-of-2020)
+
+- [what i read and listened to this week](/2020/01/05/what-i-read-and-listened-to-this-week)

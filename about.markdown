@@ -4,6 +4,8 @@ title: About Anu Gulati
 permalink: /about/
 ---
 
+<h2 class="page-header"> 🏀 about me</h2>
+
 I like to code and listen to music. I currently live in Brooklyn, New York.
 
 I grew up in South Florida for all 18 years of my childhood. I love to watch all sports, and my teams are

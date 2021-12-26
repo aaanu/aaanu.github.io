@@ -7,6 +7,15 @@ body {
     font-family: 'Helvetica Neue', 'Arial', sans-serif;
 }
 
+a {
+    color: darkred;
+}
+
+a:hover, a:focus {
+    color: darkred;
+    font-weight: bold;
+}
+
 .icon {
     width: 24px;
     height: 24px;
@@ -17,4 +26,8 @@ body {
 .site-title {
     text-decoration: none;
     color: inherit;
+}
+
+.page-header {
+    color:darkorange;
 }
