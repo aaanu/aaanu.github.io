@@ -11,12 +11,12 @@ I'm currently a full stack Software Engineer at Reddit in New York City, NY.
 ## Reddit
 _May 2021 - now_
 
-I'm an engineer on the Safety Tools team at [Reddit](https://www.reddit.com/). I work on making Reddit a safer and fairer place to be, by empowering Reddit's safety agents to process the thousands of reports made by users about content on the site.
+I'm an engineer on the Safety Tools team at [Reddit](https://www.reddit.com/). I work on making Reddit a safer and fairer place to be by empowering Reddit's safety agents to process the thousands of reports made by users about content on the site.
 
 ## Etsy
 _May 2018 - April 2021_
 
-I'm a Product Engineer on the Shipping team at [Etsy](https://www.etsy.com/). My day-to-day consisted of talking to Project Managers and Designers and building projects for mostly the buyer-side of Etsy in PHP and Javascript.
+I was a Product Engineer on the Shipping team at [Etsy](https://www.etsy.com/). My day-to-day consisted of talking to Project Managers and Designers and building projects for mostly the buyer-side of Etsy in PHP and Javascript.
 
 When I first started at Etsy, I revamped the shipping label purchase experience used by all Etsy sellers in less than 3 months, working heavily with Product and Design throughout the process and crafting with the in-house React & Redux architecture. I assured constant uptime of the product using Grafana logging, Behat testing, and Nagios alerting.
 
