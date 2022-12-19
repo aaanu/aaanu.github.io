@@ -183,4 +183,4 @@ I know, I know... It's not a great album but when tasked with a project that mem
 
 `10.` _Make Drunk Cool Again_ by RXKNephew
 
-Honorable mentions: _The Crashing Soung of How It Goes_ by Cities Aviv, _Home Video_ by Lucy Dacus, _The Voice of the Heroes_ by Lil Baby and Lil Durk, _A Beginner's Mind_ by Sufjan Stevens and Angelo De Augustine, _As the Love Continues_ by Mogwai
+Honorable mentions: _The Crashing Sound of How It Goes_ by Cities Aviv, _Home Video_ by Lucy Dacus, _The Voice of the Heroes_ by Lil Baby and Lil Durk, _A Beginner's Mind_ by Sufjan Stevens and Angelo De Augustine, _As the Love Continues_ by Mogwai

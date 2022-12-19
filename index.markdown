@@ -8,6 +8,8 @@ layout: default
 
 💭 my thoughts:
 
+- [favorite music of 2022](/2022/12/18/favorite-music-of-2022)
+
 - [favorite music of 2021](/2021/12/24/favorite-music-of-2021)
 
 - [favorite music of 2020](/2020/11/27/favorite-music-of-2020)
