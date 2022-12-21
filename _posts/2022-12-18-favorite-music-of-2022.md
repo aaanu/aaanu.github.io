@@ -71,7 +71,7 @@ My favorite songs aren't ranked. <span style="color:#7609d1">Some songs have fun
 
 ["riddle"](https://www.youtube.com/watch?v=NehkeTK9wnw) by midwxst
 
-["The 1975"](https://www.youtube.com/watch?v=50FyFWDp15U) and ["Part of the Band"](https://www.youtube.com/watch?v=87nG3LuabUs) by The 1975 <span style="color:#7609d1">(favorite songwriting of the year) ("Young people drinking aperol") ("I know some vaccinista tote bag chic baristas")</span>
+["The 1975"](https://www.youtube.com/watch?v=50FyFWDp15U), ["Part of the Band"](https://www.youtube.com/watch?v=87nG3LuabUs) and ["When We Are Together"](https://www.youtube.com/watch?v=6o4VtiQqUPQ) by The 1975 <span style="color:#7609d1">(favorite songwriting of the year) ("Young people drinking aperol") ("I know some vaccinista tote bag chic baristas") ("And it was poorly handled, the day we both got canceled")</span>
 
 ["Prester John"](https://www.youtube.com/watch?v=A5iJ9wt4paY) by Animal Collective
 
@@ -191,6 +191,8 @@ My favorite songs aren't ranked. <span style="color:#7609d1">Some songs have fun
 ["venus fly trap"](https://www.youtube.com/watch?v=cpGHMGOeg-o), ["5g"](https://www.youtube.com/watch?v=V0Zo83Rtcws) and ["cbd"](https://www.youtube.com/watch?v=6yakvy3ZV-I) by brakence
 
 ["Home Maker"](https://www.youtube.com/watch?v=2Z5-ejzOouw) and ["Loyal (EDD)"](https://www.youtube.com/watch?v=7Xm0y7mnlGA) by Sudan Archives
+
+["There'd Better Be a Mirrorball"](https://www.youtube.com/watch?v=FY5CAz6S9kE) by Arctic Monkeys
 
 ["Low"](https://www.youtube.com/watch?v=8RdnZpZUmCA) by SZA
 
